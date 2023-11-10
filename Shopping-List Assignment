@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopping List</title>
+</head>
+<body>
+    <h1>My Shopping List</h1>
+
+    <h2>Dairy</h2>
+    <ul>
+        <li>
+            <a href="https://https://www.target.com/p/vitamin-d-whole-milk-1gal-good-38-gather-8482/-/A-13276134#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_419f1169-a698-45a1-8d89-ad28136ba841?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Milk">Milk
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/shredded-mexican-style-cheese-8oz-good-38-gather-8482/-/A-54337113#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_46734303-d315-433e-b05c-5b520e7d0f39?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Cheese">Cheese
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/s?searchTerm=yogurt&tref=typeahead%7Cterm%7Cyogurt%7C%7C%7Chistory">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_626a0dc8-ff01-4458-8d44-e913f0caa5b4?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Yogurt">Yogurt
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/land-o-lakes-unsalted-butter-1lb/-/A-13227053#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_3a2f547e-0bca-4518-8afb-653913d3816f?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Butter">Butter
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/heavy-whipping-cream-16-fl-oz-1pt-good-38-gather-8482/-/A-54550905#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_c3935e5f-5b66-4bf1-a38b-ad72121b9d4f?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Cream">Cream
+            </a>
+        </li>
+    </ul>
+
+    <h2>Grains</h2>
+    <ul>
+        <li>
+            <a href="https://www.target.com/p/white-sandwich-bread-20oz-market-pantry-8482/-/A-14930378#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_99804261-1354-4636-ba1a-be0533099727?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Bread">Bread
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/enriched-long-grain-white-rice-good-gather/-/A-89229583?preselect=54602336#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_a0c8829c-19f3-45d1-be97-4fff3f7e6330?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Rice">Rice
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/kraft-white-cheddar-macaroni-38-cheese-dinner-7-3oz/-/A-12953837#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_58fa4a78-c6fe-4eab-9919-60c86cc52bc8?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Pasta">Pasta
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/old-fashioned-oats-good-gather/-/A-89969887?preselect=79364999#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_0ef35171-1ccd-4d1b-b073-30f4d37ebbd3?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Oats">Oats
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/general-mills-cheerios-honey-nut-cereal/-/A-89089767?preselect=81875234#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_f8a55870-2199-4ff4-8556-94c08c9e6cad?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Cereal">Cereal
+            </a>
+        </li>
+    </ul>
+
+    <h2>Protein</h2>
+    <ul>
+        <li>
+            <a href="https://www.target.com/p/perdue-chicken-breast-tenderloins-antibiotic-free-0-8-1-4-lbs-price-per-lb/-/A-53659622#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_48e821b7-df25-45f1-8e7d-157902ad2ea4?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Chicken">Chicken
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/all-natural-93-7-ground-beef-1lb-good-38-gather-8482/-/A-13288296#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_5c08b4e9-aabc-4b79-a579-0e33b9f849c7?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Beef">Beef
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/atlantic-salmon-frozen-16oz-good-38-gather-8482/-/A-80114702#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_922b263f-228f-4a43-82da-92ffd63839a7?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Fish">Fish
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/hodo-plant-based-organic-vegan-gluten-free-extra-firm-tofu-10oz/-/A-53844122#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_1e038d11-16f0-4831-8c03-343054efb578?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Tofu">Tofu
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/grade-a-large-eggs-12ct-good-38-gather-8482-packaging-may-vary/-/A-14713534#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_393a7c9a-e12f-4983-8f4a-e58100a6192d?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Eggs">Eggs
+            </a>
+        </li>
+    </ul>
+
+    <h2>Fruit</h2>
+    <ul>
+        <li>
+            <a href="https://www.target.com/p/organic-gala-apples-2lb-bag-good-38-gather-8482/-/A-85787732#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_c9ac25cc-247c-452d-ada7-11f114f0547e?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Apples">Apples
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/organic-bananas-2lb-good-38-gather-8482/-/A-85759852#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_cc5062e5-423f-4950-9ba4-8c61982e5684?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Bananas">Bananas
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/navel-orange-each/-/A-15026732#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_b7943030-a555-4430-bdc5-832ec57dca95?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Oranges">Oranges
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/extra-large-green-seedless-grapes-1-5lb-bag/-/A-15013624#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_27ecaa50-cac2-49f8-9a9b-e59800e28d8a?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Grapes">Grapes
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/strawberries-1lb/-/A-13208903#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_ce4ac41d-c124-49db-8f0f-2f472ee51815?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Strawberries">Strawberries
+            </a>
+        </li>
+    </ul>
+
+    <h2>Snacks</h2>
+    <ul>
+        <li>
+            <a href="https://www.target.com/p/simply-smartfood-white-cheddar-5-25oz/-/A-87713878#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_697bf8e9-8710-479e-8827-cacb3b9ca13d?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Chips">Chips
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/chips-ahoy-chewy-chocolate-chip-cookies/-/A-89243791?preselect=54599577#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_9b787f15-8277-4e48-979a-e250a4f47560?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Cookies">Cookies
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/mixed-nuts-with-peanuts-15oz-good-38-gather-8482/-/A-78100322#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_f95885d0-f7f7-45d8-a9ed-2bfe57fad144?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Nuts">Nuts
+            </a>	
+        </li>
+        <li>
+            <a href="https://www.target.com/p/orville-redenbacher-39-s-movie-theater-butter-microwave-popcorn-12ct/-/A-14723324#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_ded92337-f1a1-4739-be88-fd67f6cea9da?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Popcorn">Popcorn
+            </a>
+        </li>
+        <li>
+            <a href="https://www.target.com/p/mars-mixed-caramel-lovers-32-13oz/-/A-89395469#lnk=sametab">
+                <img src="https://target.scene7.com/is/image/Target/GUEST_bd62afa0-f0b1-4dd9-bf6a-10124e8a7967?wid=1200&hei=1200&qlt=80&fmt=webp" alt="Candy">Candy
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
